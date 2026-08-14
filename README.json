@@ -38,7 +38,7 @@
             "last_commit": "2026-08-13T17:06:46Z",
             "owner": "openappsec",
             "repo": "openappsec",
-            "stars": 1675
+            "stars": 1677
           }
         },
         {
@@ -113,7 +113,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T22:14:41Z",
+            "last_commit": "2026-08-14T20:57:58Z",
             "owner": "zeek",
             "repo": "zeek",
             "stars": 7875
@@ -172,10 +172,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T23:24:33Z",
+            "last_commit": "2026-08-14T23:50:40Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24212
+            "stars": 24235
           }
         },
         {
@@ -186,10 +186,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:11:21Z",
+            "last_commit": "2026-08-14T21:40:59Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8792
+            "stars": 8802
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2026-08-11T08:57:34Z",
             "owner": "ipa-lab",
             "repo": "hackingBuddyGPT",
-            "stars": 1206
+            "stars": 1207
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 835
+            "stars": 839
           }
         },
         {
@@ -298,10 +298,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T23:14:47Z",
+            "last_commit": "2026-08-14T09:34:40Z",
             "owner": "nullc0d30",
             "repo": "HunterX",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-07-14T12:47:07Z",
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2897
+            "stars": 2895
           }
         },
         {
@@ -380,7 +380,7 @@
             "last_commit": "2024-08-07T23:35:48Z",
             "owner": "protectai",
             "repo": "rebuff",
-            "stars": 1519
+            "stars": 1520
           }
         },
         {
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:11:03.347Z",
+    "last_updated": "2026-08-14T23:54:03.431Z",
     "original_repository": "ElNiak/awesome-ai-cybersecurity",
     "original_repository_sha": "02c2c75aa0aa2982f38176a9613eaba2e3d0e1a0",
     "enhanced_repository": "enhansome/enhansome-ai-cybersecurity",

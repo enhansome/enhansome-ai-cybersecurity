@@ -116,7 +116,7 @@
             "last_commit": "2026-08-14T20:57:58Z",
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7875
+            "stars": 7876
           }
         },
         {
@@ -172,10 +172,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:50:40Z",
+            "last_commit": "2026-08-15T23:18:51Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24235
+            "stars": 24258
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-14T21:40:59Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8802
+            "stars": 8816
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2025-07-18T13:29:17Z",
             "owner": "Azure",
             "repo": "counterfit",
-            "stars": 933
+            "stars": 934
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 839
+            "stars": 841
           }
         },
         {
@@ -298,7 +298,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:34:40Z",
+            "last_commit": "2026-08-15T07:06:31Z",
             "owner": "nullc0d30",
             "repo": "HunterX",
             "stars": 11
@@ -327,7 +327,7 @@
             "last_commit": "2026-07-14T12:47:07Z",
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2895
+            "stars": 2896
           }
         },
         {
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:54:03.431Z",
+    "last_updated": "2026-08-15T23:49:56.760Z",
     "original_repository": "ElNiak/awesome-ai-cybersecurity",
     "original_repository_sha": "02c2c75aa0aa2982f38176a9613eaba2e3d0e1a0",
     "enhanced_repository": "enhansome/enhansome-ai-cybersecurity",

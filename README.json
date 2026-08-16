@@ -24,7 +24,7 @@
             "last_commit": "2026-05-07T08:04:41Z",
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
-            "stars": 2089
+            "stars": 2088
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-13T17:06:46Z",
             "owner": "openappsec",
             "repo": "openappsec",
-            "stars": 1677
+            "stars": 1678
           }
         },
         {
@@ -116,7 +116,7 @@
             "last_commit": "2026-08-14T20:57:58Z",
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7876
+            "stars": 7881
           }
         },
         {
@@ -172,10 +172,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T23:18:51Z",
+            "last_commit": "2026-08-16T18:05:51Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24258
+            "stars": 24280
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-14T21:40:59Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8816
+            "stars": 8827
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2026-08-11T08:57:34Z",
             "owner": "ipa-lab",
             "repo": "hackingBuddyGPT",
-            "stars": 1207
+            "stars": 1209
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2025-07-18T13:29:17Z",
             "owner": "Azure",
             "repo": "counterfit",
-            "stars": 934
+            "stars": 935
           }
         },
         {
@@ -298,10 +298,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T07:06:31Z",
+            "last_commit": "2026-08-16T22:02:50Z",
             "owner": "nullc0d30",
             "repo": "HunterX",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-04T09:02:35Z",
             "owner": "OpenMined",
             "repo": "TenSEAL",
-            "stars": 1033
+            "stars": 1034
           }
         },
         {
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:49:56.760Z",
+    "last_updated": "2026-08-16T23:50:10.947Z",
     "original_repository": "ElNiak/awesome-ai-cybersecurity",
     "original_repository_sha": "02c2c75aa0aa2982f38176a9613eaba2e3d0e1a0",
     "enhanced_repository": "enhansome/enhansome-ai-cybersecurity",

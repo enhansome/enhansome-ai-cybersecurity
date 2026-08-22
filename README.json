@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-20T12:41:54Z",
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1682
+                    "stars": 1685
                   }
                 },
                 {
@@ -115,7 +115,7 @@
                     "last_commit": "2026-08-21T23:35:47Z",
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 7896
+                    "stars": 7897
                   }
                 },
                 {
@@ -142,7 +142,7 @@
                     "archived": false,
                     "id": 1337595195,
                     "language": "Python",
-                    "last_commit": "2026-08-21T01:11:15Z",
+                    "last_commit": "2026-08-22T18:27:17Z",
                     "owner": "ibondarenko1",
                     "repo": "security-anomaly-ml",
                     "stars": 2
@@ -178,7 +178,7 @@
                 "last_commit": "2026-08-19T17:17:12Z",
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3346
+                "stars": 3368
               }
             },
             {
@@ -190,10 +190,10 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T21:28:12Z",
+                "last_commit": "2026-08-22T23:37:51Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 185
+                "stars": 186
               }
             }
           ],
@@ -212,10 +212,10 @@
                 "archived": false,
                 "id": 633927609,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:05:06Z",
+                "last_commit": "2026-08-22T22:08:07Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24445
+                "stars": 24468
               }
             },
             {
@@ -230,7 +230,7 @@
                 "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8890
+                "stars": 8897
               }
             },
             {
@@ -266,10 +266,10 @@
                     "archived": false,
                     "id": 633927609,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T20:05:06Z",
+                    "last_commit": "2026-08-22T22:08:07Z",
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 24445
+                    "stars": 24468
                   }
                 },
                 {
@@ -284,7 +284,7 @@
                     "last_commit": "2026-08-21T14:25:03Z",
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 8890
+                    "stars": 8897
                   }
                 },
                 {
@@ -344,7 +344,7 @@
                     "last_commit": "2026-08-21T18:19:19Z",
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 856
+                    "stars": 859
                   }
                 },
                 {
@@ -401,7 +401,7 @@
                     "archived": false,
                     "id": 1148383268,
                     "language": "Python",
-                    "last_commit": "2026-08-21T14:11:18Z",
+                    "last_commit": "2026-08-22T13:26:39Z",
                     "owner": "nullc0d30",
                     "repo": "HunterX",
                     "stars": 13
@@ -431,7 +431,7 @@
                 "last_commit": "2026-07-14T12:47:07Z",
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2901
+                "stars": 2902
               }
             },
             {
@@ -515,7 +515,7 @@
                     "last_commit": "2026-02-18T21:14:19Z",
                     "owner": "protectai",
                     "repo": "modelscan",
-                    "stars": 763
+                    "stars": 765
                   }
                 },
                 {
@@ -579,7 +579,7 @@
                     "archived": false,
                     "id": 236181743,
                     "language": "C++",
-                    "last_commit": "2026-08-04T09:02:35Z",
+                    "last_commit": "2026-08-22T21:26:13Z",
                     "owner": "OpenMined",
                     "repo": "TenSEAL",
                     "stars": 1033
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:53:08.949Z",
+    "last_updated": "2026-08-22T23:50:50.073Z",
     "original_repository": "ElNiak/awesome-ai-cybersecurity",
     "original_repository_id": 831637664,
     "original_repository_sha": "d9517d4ce5874cd219446cfa4c68463b61f46fba",

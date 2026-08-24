@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 557959507,
                     "language": "C++",
-                    "last_commit": "2026-08-20T12:41:54Z",
+                    "last_commit": "2026-08-24T11:22:39Z",
                     "owner": "openappsec",
                     "repo": "openappsec",
                     "stars": 1686
@@ -105,6 +105,35 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "PANTHER",
+                  "description": "PANTHER combines advanced techniques in network protocol verification, integrating the Shadow network simulator with the Ivy formal verification tool. This framework allows for detailed examination of time properties in network protocols and identifies real-world implementation errors. It supports multiple protocols and can simulate advanced persistent threats (APTs) in network protocols.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 426255598,
+                    "language": "Python",
+                    "last_commit": "2026-08-03T13:49:39Z",
+                    "owner": "ElNiak",
+                    "repo": "PANTHER",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Network"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prevention"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Zeek",
                   "description": "A powerful network analysis framework focused on security monitoring. AI can be integrated to analyze network traffic patterns and detect anomalies indicative of security threats.",
                   "children": [],
@@ -112,7 +141,7 @@
                     "archived": false,
                     "id": 4930716,
                     "language": "C++",
-                    "last_commit": "2026-08-21T23:35:47Z",
+                    "last_commit": "2026-08-24T11:54:59Z",
                     "owner": "zeek",
                     "repo": "zeek",
                     "stars": 7901
@@ -142,7 +171,7 @@
                     "archived": false,
                     "id": 1337595195,
                     "language": "Python",
-                    "last_commit": "2026-08-22T18:27:17Z",
+                    "last_commit": "2026-08-24T00:11:00Z",
                     "owner": "ibondarenko1",
                     "repo": "security-anomaly-ml",
                     "stars": 2
@@ -157,6 +186,86 @@
           "description": null,
           "node_type": "group",
           "title": "Detection"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cortex",
+                  "description": "A powerful and flexible observable analysis and active response engine. AI can be used in Cortex to automate the analysis of observables and enhance threat detection capabilities.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78524793,
+                    "language": "Scala",
+                    "last_commit": "2026-06-30T09:01:11Z",
+                    "owner": "TheHive-Project",
+                    "repo": "Cortex",
+                    "stars": 1618
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Endpoint"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Response"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nikto",
+                  "description": "An open-source web server scanner which performs comprehensive tests against web servers for multiple items. AI can help Nikto by automating the identification of complex vulnerabilities and enhancing detection accuracy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6836299,
+                    "language": "Perl",
+                    "last_commit": "2026-08-18T04:01:08Z",
+                    "owner": "sullo",
+                    "repo": "nikto",
+                    "stars": 10677
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Endpoint"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ZettelForge",
+                  "description": "CTI agentic memory system with entity extraction (CVEs, threat actors, IOCs, MITRE ATT&CK), knowledge graph with alias resolution, STIX 2.1 ontology, intent-classified retrieval, and MCP server for AI agent integration. Offline, MIT licensed.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1203202149,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T20:23:51Z",
+                    "owner": "ThreatRecall",
+                    "repo": "zettelforge",
+                    "stars": 58
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "User"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring/Scanning"
         }
       ],
       "title": "Using AI for Pentesting"
@@ -175,10 +284,10 @@
                 "archived": false,
                 "id": 1175900220,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T17:17:12Z",
+                "last_commit": "2026-08-24T06:18:43Z",
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3379
+                "stars": 3393
               }
             },
             {
@@ -190,10 +299,10 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T23:40:26Z",
+                "last_commit": "2026-08-24T02:12:22Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 186
+                "stars": 187
               }
             }
           ],
@@ -212,10 +321,10 @@
                 "archived": false,
                 "id": 633927609,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:07:45Z",
+                "last_commit": "2026-08-24T14:24:44Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24495
+                "stars": 24526
               }
             },
             {
@@ -230,7 +339,7 @@
                 "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8967
+                "stars": 9006
               }
             },
             {
@@ -266,10 +375,10 @@
                     "archived": false,
                     "id": 633927609,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T18:07:45Z",
+                    "last_commit": "2026-08-24T14:24:44Z",
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 24495
+                    "stars": 24526
                   }
                 },
                 {
@@ -284,7 +393,7 @@
                     "last_commit": "2026-08-21T14:25:03Z",
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 8967
+                    "stars": 9006
                   }
                 },
                 {
@@ -299,7 +408,7 @@
                     "last_commit": "2026-08-21T17:54:36Z",
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1219
+                    "stars": 1220
                   }
                 },
                 {
@@ -329,7 +438,7 @@
                     "last_commit": "2025-07-18T13:29:17Z",
                     "owner": "Azure",
                     "repo": "counterfit",
-                    "stars": 936
+                    "stars": 937
                   }
                 },
                 {
@@ -344,7 +453,7 @@
                     "last_commit": "2026-08-23T15:48:25Z",
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 865
+                    "stars": 867
                   }
                 },
                 {
@@ -401,7 +510,7 @@
                     "archived": false,
                     "id": 1148383268,
                     "language": "Python",
-                    "last_commit": "2026-08-23T20:49:06Z",
+                    "last_commit": "2026-08-24T09:26:50Z",
                     "owner": "nullc0d30",
                     "repo": "HunterX",
                     "stars": 13
@@ -472,6 +581,50 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "BadDiffusion",
+              "description": "Official repository to reproduce the paper \"How to Backdoor Diffusion Models?\" published at CVPR 2023.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615122673,
+                "language": "Python",
+                "last_commit": "2025-09-17T23:59:11Z",
+                "owner": "IBM",
+                "repo": "BadDiffusion",
+                "stars": 96
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Poisoning Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PrivacyRaven",
+              "description": "A privacy testing library for deep learning systems.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 266141010,
+                "language": "Python",
+                "last_commit": "2025-09-05T19:03:08Z",
+                "owner": "trailofbits",
+                "repo": "PrivacyRaven",
+                "stars": 213
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Privacy Tools"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -500,7 +653,7 @@
                     "last_commit": "2024-11-22T20:02:14Z",
                     "owner": "whylabs",
                     "repo": "langkit",
-                    "stars": 993
+                    "stars": 994
                   }
                 },
                 {
@@ -660,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:51:16.927Z",
+    "last_updated": "2026-08-24T14:38:28.787Z",
     "original_repository": "ElNiak/awesome-ai-cybersecurity",
     "original_repository_id": 831637664,
     "original_repository_sha": "d9517d4ce5874cd219446cfa4c68463b61f46fba",

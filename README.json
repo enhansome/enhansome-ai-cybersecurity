@@ -144,7 +144,7 @@
                     "last_commit": "2026-08-24T14:38:46Z",
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 7902
+                    "stars": 7903
                   }
                 },
                 {
@@ -299,7 +299,7 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T23:38:18Z",
+                "last_commit": "2026-08-25T03:15:15Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
                 "stars": 187
@@ -321,10 +321,10 @@
                 "archived": false,
                 "id": 633927609,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T23:50:32Z",
+                "last_commit": "2026-08-25T06:10:24Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24540
+                "stars": 24549
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9019
+                "stars": 9023
               }
             },
             {
@@ -375,10 +375,10 @@
                     "archived": false,
                     "id": 633927609,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T23:50:32Z",
+                    "last_commit": "2026-08-25T06:10:24Z",
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 24540
+                    "stars": 24549
                   }
                 },
                 {
@@ -393,7 +393,7 @@
                     "last_commit": "2026-08-21T14:25:03Z",
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9019
+                    "stars": 9023
                   }
                 },
                 {
@@ -408,7 +408,7 @@
                     "last_commit": "2026-08-21T17:54:36Z",
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1222
+                    "stars": 1223
                   }
                 },
                 {
@@ -453,7 +453,7 @@
                     "last_commit": "2026-08-23T15:48:25Z",
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 867
+                    "stars": 869
                   }
                 },
                 {
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:52:00.365Z",
+    "last_updated": "2026-08-25T06:27:16.074Z",
     "original_repository": "ElNiak/awesome-ai-cybersecurity",
     "original_repository_id": 831637664,
     "original_repository_sha": "d9517d4ce5874cd219446cfa4c68463b61f46fba",

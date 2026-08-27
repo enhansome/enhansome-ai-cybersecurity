@@ -19,7 +19,7 @@
                     "last_commit": "2026-05-07T08:04:41Z",
                     "owner": "13o-bbr-bbq",
                     "repo": "machine_learning_security",
-                    "stars": 2088
+                    "stars": 2089
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-26T11:22:06Z",
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1689
+                    "stars": 1690
                   }
                 },
                 {
@@ -144,7 +144,7 @@
                     "last_commit": "2026-08-26T23:18:38Z",
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 7908
+                    "stars": 7909
                   }
                 },
                 {
@@ -232,7 +232,7 @@
                     "last_commit": "2026-08-18T04:01:08Z",
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10685
+                    "stars": 10686
                   }
                 }
               ],
@@ -287,7 +287,7 @@
                 "last_commit": "2026-08-27T03:35:26Z",
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3418
+                "stars": 3419
               }
             },
             {
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-27T01:44:18Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 189
+                "stars": 188
               }
             }
           ],
@@ -324,7 +324,7 @@
                 "last_commit": "2026-08-27T00:14:28Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24608
+                "stars": 24616
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2026-08-25T22:37:37Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9038
+                "stars": 9041
               }
             },
             {
@@ -378,7 +378,7 @@
                     "last_commit": "2026-08-27T00:14:28Z",
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 24608
+                    "stars": 24616
                   }
                 },
                 {
@@ -393,7 +393,7 @@
                     "last_commit": "2026-08-25T22:37:37Z",
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9038
+                    "stars": 9041
                   }
                 },
                 {
@@ -405,7 +405,7 @@
                     "archived": false,
                     "id": 673704029,
                     "language": "Python",
-                    "last_commit": "2026-08-21T17:54:36Z",
+                    "last_commit": "2026-08-27T09:01:14Z",
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
                     "stars": 1224
@@ -453,7 +453,7 @@
                     "last_commit": "2026-08-25T10:02:54Z",
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 876
+                    "stars": 875
                   }
                 },
                 {
@@ -653,7 +653,7 @@
                     "last_commit": "2024-11-22T20:02:14Z",
                     "owner": "whylabs",
                     "repo": "langkit",
-                    "stars": 994
+                    "stars": 995
                   }
                 },
                 {
@@ -813,9 +813,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:58:34.699Z",
-    "original_repository": "ElNiak/awesome-ai-cybersecurity",
-    "original_repository_id": 831637664,
+    "last_updated": "2026-08-27T11:20:49.897Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 831637664,
+      "language": null,
+      "last_commit": "2026-08-21T07:32:54Z",
+      "owner": "ElNiak",
+      "repo": "awesome-ai-cybersecurity",
+      "stars": 153
+    },
     "original_repository_sha": "d9517d4ce5874cd219446cfa4c68463b61f46fba",
     "enhanced_repository": "enhansome/enhansome-ai-cybersecurity",
     "enhanced_repository_description": null,

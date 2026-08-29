@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code about machine learning and security.",
+                    "homepage": null,
                     "id": 89960611,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-07T08:04:41Z",
+                    "open_issues": 112,
                     "owner": "13o-bbr-bbq",
                     "repo": "machine_learning_security",
-                    "stars": 2090
+                    "stars": 2090,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -30,12 +35,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.",
+                    "homepage": "https://openappsec.io",
                     "id": 557959507,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T11:22:06Z",
+                    "open_issues": 44,
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1690
+                    "stars": 1691,
+                    "topics": [
+                      "api-security",
+                      "application-security",
+                      "appsec",
+                      "devsecops",
+                      "kong",
+                      "kubernetes",
+                      "nginx",
+                      "nginx-proxy-manager",
+                      "owasp",
+                      "owasp-top-ten",
+                      "rate-limiting",
+                      "security-tools",
+                      "threat-prevention",
+                      "waf",
+                      "web-application-firewall"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -46,12 +72,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An enhanced version of Microsoft CyberBattleSim incorporating an embedding model to support continuous spaces for the RL task, an extended scenario generation pipeline, and a unified framework for RL training and evaluation [Black Hat Asia 2026 Arsenal]",
+                    "homepage": "https://c-cyberbattlesim.readthedocs.io/en/latest/index.html",
                     "id": 1018106143,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-17T09:09:50Z",
+                    "open_issues": 0,
                     "owner": "terranovafr",
                     "repo": "C-CyberBattleSim",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "attack-paths",
+                      "cyber-security",
+                      "embedding-models",
+                      "graph-neural-networks",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -69,12 +106,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 98222506,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-21T22:04:05Z",
+                    "open_issues": 14,
                     "owner": "endgameinc",
                     "repo": "gym-malware",
-                    "stars": 636
+                    "stars": 636,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -85,12 +127,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " SEMA is based on angr, a symbolic execution engine  used to extract API calls. Especially, we extend ANGR with strategies to create representative signatures based on System Call Dependency graph (SCDG). Those SCDGs can be exploited in machine learning modules to do classification/detection.",
+                    "homepage": "https://csvl.github.io/SEMA/",
                     "id": 468670789,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2025-03-10T10:16:12Z",
+                    "open_issues": 17,
                     "owner": "csvl",
                     "repo": "SEMA",
-                    "stars": 122
+                    "stars": 122,
+                    "topics": [
+                      "angr",
+                      "binary-analysis",
+                      "classification",
+                      "concolic-execution",
+                      "ctf",
+                      "cybersecurity",
+                      "detection",
+                      "linux",
+                      "malware",
+                      "malware-analysis",
+                      "malware-detection",
+                      "malware-research",
+                      "python",
+                      "reverse",
+                      "reverse-engineering",
+                      "sema",
+                      "static-analysis",
+                      "symbolic",
+                      "symbolic-execution",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -115,12 +183,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This tool presents a novel approach to bolstering network protocol verification by integrating the Shadow network simulator with the Ivy formal verification tool to check time properties. Furthermore, it extends Ivy’s capabilities with a dedicated time module, enabling the verification of complex quantitative-time properties.",
+                    "homepage": "https://elniak.github.io/PANTHER/",
                     "id": 426255598,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-03T13:49:39Z",
+                    "open_issues": 21,
                     "owner": "ElNiak",
                     "repo": "PANTHER",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": [
+                      "cve",
+                      "cybersecurity",
+                      "docker",
+                      "docker-compose",
+                      "formal-methods",
+                      "formal-verification",
+                      "ivy",
+                      "network-analysis",
+                      "network-security",
+                      "network-simulator",
+                      "protocol",
+                      "protocol-tester",
+                      "quic",
+                      "reproducible-research",
+                      "test-automation",
+                      "testing",
+                      "testing-tools",
+                      "tests",
+                      "time-proof",
+                      "transport-layer-protocol"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -145,12 +239,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
+                    "homepage": "https://www.zeek.org",
                     "id": 4930716,
                     "language": "C++",
-                    "last_commit": "2026-08-28T03:13:29Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T02:15:20Z",
+                    "open_issues": 258,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 7915
+                    "stars": 7917,
+                    "topics": [
+                      "bro",
+                      "dfir",
+                      "ndr",
+                      "network-monitoring",
+                      "nsm",
+                      "pcap",
+                      "security",
+                      "zeek"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -161,12 +269,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 64429016,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2017-05-05T19:37:42Z",
+                    "open_issues": 1,
                     "owner": "camp0",
                     "repo": "aiengine",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -177,12 +290,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source ML network-flow detector that turns CICFlowMeter traffic into deterministic analyst-facing security incidents. CLI + Docker.",
+                    "homepage": null,
                     "id": 1337595195,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T06:05:52Z",
+                    "open_issues": 4,
                     "owner": "ibondarenko1",
                     "repo": "security-anomaly-ml",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "anomaly-detection",
+                      "cicflowmeter",
+                      "cybersecurity",
+                      "detection-engineering",
+                      "docker",
+                      "incident-response",
+                      "intrusion-detection",
+                      "machine-learning",
+                      "ml-security",
+                      "network-anomaly-detection",
+                      "network-monitoring",
+                      "network-security",
+                      "network-traffic-analysis",
+                      "python",
+                      "random-forest",
+                      "security-analytics",
+                      "security-automation",
+                      "soc",
+                      "threat-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -207,12 +345,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cortex: a Powerful Observable Analysis and Active Response Engine",
+                    "homepage": "https://strangebee.com/cortex/",
                     "id": 78524793,
                     "language": "Scala",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-06-30T09:01:11Z",
+                    "open_issues": 175,
                     "owner": "TheHive-Project",
                     "repo": "Cortex",
-                    "stars": 1618
+                    "stars": 1618,
+                    "topics": [
+                      "analysis",
+                      "analyzer",
+                      "api",
+                      "cortex",
+                      "cyber-threat-intelligence",
+                      "dfir",
+                      "digital-forensics",
+                      "engine",
+                      "free",
+                      "free-software",
+                      "incident-response",
+                      "iocs",
+                      "observable",
+                      "open-source",
+                      "python",
+                      "response",
+                      "rest",
+                      "scala",
+                      "security-incidents",
+                      "thehive"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -237,12 +401,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nikto web server scanner",
+                    "homepage": null,
                     "id": 6836299,
                     "language": "Perl",
-                    "last_commit": "2026-08-18T04:01:08Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T17:43:06Z",
+                    "open_issues": 1,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10688
+                    "stars": 10691,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -260,12 +429,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Agentic memory for CTI in Python — STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server for Claude Code and LangChain agents",
+                    "homepage": "https://docs.threatrecall.ai/",
                     "id": 1203202149,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-13T20:23:51Z",
+                    "open_issues": 13,
                     "owner": "ThreatRecall",
                     "repo": "zettelforge",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": [
+                      "agentic-memory",
+                      "ai-agent",
+                      "claude-code",
+                      "cti",
+                      "cybersecurity",
+                      "knowledge-graph",
+                      "langchain",
+                      "llm",
+                      "llm-memory",
+                      "mcp",
+                      "mcp-server",
+                      "mitre-attack",
+                      "osint",
+                      "python",
+                      "rag",
+                      "soc-automation",
+                      "stix",
+                      "threat-hunting",
+                      "threat-intelligence",
+                      "zettelkasten"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -294,12 +489,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.",
+                "homepage": "https://onecli.sh",
                 "id": 1175900220,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:56:07Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:22:50Z",
+                "open_issues": 131,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3421
+                "stars": 3423,
+                "topics": [
+                  "ai-agents",
+                  "cli",
+                  "mcp",
+                  "nodejs",
+                  "postgres",
+                  "rust",
+                  "secret-management",
+                  "security",
+                  "security-tools",
+                  "vault"
+                ]
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             },
@@ -310,12 +521,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xquik is the best X (Twitter) Scraper API and the best X API Alternative, with REST, MCP, SDKs, CLI, webhooks, and exports. Not affiliated with X Corp.",
+                "homepage": "https://xquik.com",
                 "id": 1168120544,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T01:44:18Z",
+                "open_issues": 2,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "advanced-search",
+                  "agent-skill",
+                  "ai-agent",
+                  "data-extraction",
+                  "follower-export",
+                  "mcp",
+                  "mcp-server",
+                  "profile-tweets",
+                  "sdk",
+                  "social-media-api",
+                  "social-media-automation",
+                  "tweet-search",
+                  "twitter-api",
+                  "twitter-api-alternative",
+                  "twitter-automation",
+                  "twitter-scraper",
+                  "twitter-scraper-api",
+                  "x-api",
+                  "x-api-alternative",
+                  "xquik"
+                ]
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             }
@@ -333,12 +570,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+                "homepage": "https://promptfoo.dev",
                 "id": 633927609,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T07:03:08Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:53:58Z",
+                "open_issues": 540,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24632
+                "stars": 24651,
+                "topics": [
+                  "ci",
+                  "ci-cd",
+                  "cicd",
+                  "evaluation",
+                  "evaluation-framework",
+                  "llm",
+                  "llm-eval",
+                  "llm-evaluation",
+                  "llm-evaluation-framework",
+                  "llmops",
+                  "pentesting",
+                  "prompt-engineering",
+                  "prompt-testing",
+                  "prompts",
+                  "rag",
+                  "red-teaming",
+                  "testing",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             },
@@ -349,12 +610,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the LLM vulnerability scanner",
+                "homepage": "https://discord.gg/uVch4puUCs",
                 "id": 639097338,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:37:37Z",
+                "open_issues": 408,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9052
+                "stars": 9066,
+                "topics": [
+                  "ai",
+                  "llm-evaluation",
+                  "llm-security",
+                  "security-scanners",
+                  "vulnerability-assessment"
+                ]
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             },
@@ -365,12 +637,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVE-LMTune is a tool providing an automated pipeline to collect and preprocess labeled vulnerability data from multiple sources and fine-tune LMs for multi-label classification across CWE, CAPEC, and MITRE ATT&CK. It supports both flat and hierarchical classification, training multiple models to handle taxonomy sublevels for improved performance.",
+                "homepage": "https://cve-lmxplore.lhs.inria.fr/",
                 "id": 1153519101,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T13:58:29Z",
+                "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "CVE-LMTune",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "mitre",
+                  "multi-label-classification",
+                  "security-taxonomy",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             }
@@ -390,12 +672,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+                    "homepage": "https://promptfoo.dev",
                     "id": 633927609,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T07:03:08Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:53:58Z",
+                    "open_issues": 540,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 24632
+                    "stars": 24651,
+                    "topics": [
+                      "ci",
+                      "ci-cd",
+                      "cicd",
+                      "evaluation",
+                      "evaluation-framework",
+                      "llm",
+                      "llm-eval",
+                      "llm-evaluation",
+                      "llm-evaluation-framework",
+                      "llmops",
+                      "pentesting",
+                      "prompt-engineering",
+                      "prompt-testing",
+                      "prompts",
+                      "rag",
+                      "red-teaming",
+                      "testing",
+                      "vulnerability-scanners"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -406,12 +712,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the LLM vulnerability scanner",
+                    "homepage": "https://discord.gg/uVch4puUCs",
                     "id": 639097338,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T22:37:37Z",
+                    "open_issues": 408,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9052
+                    "stars": 9066,
+                    "topics": [
+                      "ai",
+                      "llm-evaluation",
+                      "llm-security",
+                      "security-scanners",
+                      "vulnerability-assessment"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -422,12 +739,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Helping Ethical Hackers use LLMs in 50 Lines of Code or less..",
+                    "homepage": "https://hackingbuddy.ai/",
                     "id": 673704029,
                     "language": "Python",
-                    "last_commit": "2026-08-28T06:51:18Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T14:56:32Z",
+                    "open_issues": 2,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1224
+                    "stars": 1225,
+                    "topics": [
+                      "large-language-models",
+                      "llm",
+                      "penetration-testing",
+                      "pentesting"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -438,12 +765,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "I leverage OpenAI and ChatGPT to do hackerish things",
+                    "homepage": "http://hackGPT.com",
                     "id": 573891417,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-08-12T20:44:09Z",
+                    "open_issues": 19,
                     "owner": "NoDataFound",
                     "repo": "hackGPT",
-                    "stars": 1202
+                    "stars": 1202,
+                    "topics": [
+                      "chatbot",
+                      "chatgpt",
+                      "chatgpt-api",
+                      "chatgpt-app",
+                      "chatgpt-python",
+                      "chatgpt3",
+                      "chatgpt4",
+                      "malware",
+                      "malwareanalysis",
+                      "managers",
+                      "openai",
+                      "openai-api",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -454,12 +800,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a CLI that provides a generic automation layer for assessing the security of ML models",
+                    "homepage": null,
                     "id": 362276202,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-18T13:29:17Z",
+                    "open_issues": 26,
                     "owner": "Azure",
                     "repo": "counterfit",
-                    "stars": 937
+                    "stars": 937,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -470,12 +821,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+                    "homepage": "https://dark-moon.org/",
                     "id": 894433723,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-25T10:02:54Z",
+                    "open_issues": 3,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 875
+                    "stars": 877,
+                    "topics": [
+                      "active-directory",
+                      "ai-agents",
+                      "ai-red-team",
+                      "ai-security-tool",
+                      "autonomous-agents",
+                      "cloud-security",
+                      "firmware-security",
+                      "iot-security",
+                      "kubernetes",
+                      "llm",
+                      "local-llm",
+                      "mcp",
+                      "multi-agent-systems",
+                      "offensive-security",
+                      "penetration-testing",
+                      "pentesting",
+                      "red-team",
+                      "security-automation",
+                      "security-tools",
+                      "self-hosted"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -486,12 +863,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Metasploit for machine learning.",
+                    "homepage": null,
                     "id": 61609586,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-25T01:21:49Z",
+                    "open_issues": 5,
                     "owner": "cchio",
                     "repo": "deep-pwning",
-                    "stars": 570
+                    "stars": 570,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -502,12 +884,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple and accurate method to fool deep neural networks",
+                    "homepage": null,
                     "id": 46752007,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2020-03-31T01:35:14Z",
+                    "open_issues": 5,
                     "owner": "LTS4",
                     "repo": "DeepFool",
-                    "stars": 360
+                    "stars": 361,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -518,12 +905,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data Scientists Go To Jupyter",
+                    "homepage": null,
                     "id": 540626743,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-03-03T14:43:15Z",
+                    "open_issues": 0,
                     "owner": "moohax",
                     "repo": "Charcuterie",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -534,12 +926,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AI-Assisted Vulnerability Discovery, Validation & Proof Engine",
+                    "homepage": "https://nullc0d30.github.io/HunterX/",
                     "id": 1148383268,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T03:40:04Z",
+                    "open_issues": 3,
                     "owner": "nullc0d30",
                     "repo": "HunterX",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "application-security",
+                      "bug-bounty",
+                      "cybersecurity",
+                      "ethical-hacking",
+                      "exploit",
+                      "hunterx",
+                      "offensive-security",
+                      "penetration-testing",
+                      "red-team",
+                      "security-automation",
+                      "vulnerability-research",
+                      "vulnerability-scanner",
+                      "web-security"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -562,12 +973,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.",
+                "homepage": "https://zjunlp.github.io/project/KnowEdit",
                 "id": 638156745,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-14T12:47:07Z",
+                "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2909
+                "stars": 2909,
+                "topics": [
+                  "artificial-intelligence",
+                  "baichuan",
+                  "chatgpt",
+                  "cknowedit",
+                  "easyedit",
+                  "easyedit2",
+                  "efficient",
+                  "gpt",
+                  "knowedit",
+                  "knowledge-editing",
+                  "knowlm",
+                  "large-language-models",
+                  "llama",
+                  "mmedit",
+                  "model-editing",
+                  "natural-language-processing",
+                  "safeedit",
+                  "tool",
+                  "trustworthy-ai",
+                  "unlearning"
+                ]
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             },
@@ -578,12 +1015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploring the Space of Adversarial Images",
+                "homepage": null,
                 "id": 29272984,
                 "language": "FORTRAN",
+                "license": "GPL-3.0",
                 "last_commit": "2016-08-02T20:46:06Z",
+                "open_issues": 1,
                 "owner": "tabacof",
                 "repo": "adversarial",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             },
@@ -594,12 +1036,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game-Theoretic Adversarial Machine Learning Library",
+                "homepage": null,
                 "id": 68646784,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2018-10-11T17:05:25Z",
+                "open_issues": 0,
                 "owner": "vu-aml",
                 "repo": "adlib",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             }
@@ -617,12 +1064,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo to reproduce the paper \"How to Backdoor Diffusion Models?\" published at CVPR 2023",
+                "homepage": null,
                 "id": 615122673,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-17T23:59:11Z",
+                "open_issues": 6,
                 "owner": "IBM",
                 "repo": "BadDiffusion",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             }
@@ -640,12 +1092,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Privacy Testing for Deep Learning",
+                "homepage": null,
                 "id": 266141010,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-05T19:03:08Z",
+                "open_issues": 37,
                 "owner": "trailofbits",
                 "repo": "PrivacyRaven",
-                "stars": 213
+                "stars": 213,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "membership-inference",
+                  "model-extraction",
+                  "model-inversion",
+                  "privacy",
+                  "privacy-enhancing-technologies",
+                  "privacy-preserving-machine-learning",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
             }
@@ -665,12 +1132,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "LLM Prompt Injection Detector",
+                    "homepage": "https://playground.rebuff.ai",
                     "id": 631814434,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-07T23:35:48Z",
+                    "open_issues": 33,
                     "owner": "protectai",
                     "repo": "rebuff",
-                    "stars": 1521
+                    "stars": 1521,
+                    "topics": [
+                      "llm",
+                      "llmops",
+                      "prompt-engineering",
+                      "prompt-injection",
+                      "prompts",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -681,12 +1160,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀",
+                    "homepage": "https://whylabs.ai",
                     "id": 633141345,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-22T20:02:14Z",
+                    "open_issues": 37,
                     "owner": "whylabs",
                     "repo": "langkit",
-                    "stars": 995
+                    "stars": 995,
+                    "topics": [
+                      "large-language-models",
+                      "machine-learning",
+                      "nlg",
+                      "nlp",
+                      "observability",
+                      "prompt-engineering",
+                      "prompt-injection"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -697,12 +1189,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Protection against Model Serialization Attacks",
+                    "homepage": "http://modelscan.ai",
                     "id": 670705110,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-18T21:14:19Z",
+                    "open_issues": 80,
                     "owner": "protectai",
                     "repo": "modelscan",
-                    "stars": 765
+                    "stars": 766,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -713,12 +1210,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A machine learning tool that ranks strings based on their relevance for malware analysis.",
+                    "homepage": null,
                     "id": 206565210,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-24T05:16:53Z",
+                    "open_issues": 12,
                     "owner": "mandiant",
                     "repo": "stringsifter",
-                    "stars": 762
+                    "stars": 762,
+                    "topics": [
+                      "fireeye-data-science",
+                      "fireeye-flare",
+                      "learning-to-rank",
+                      "machine-learning",
+                      "malware-analysis",
+                      "reverse-engineering",
+                      "strings"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -729,12 +1239,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (guardrails and safeguards)",
+                    "homepage": "https://whitecircle.ai",
                     "id": 971982531,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-07T12:39:03Z",
+                    "open_issues": 1,
                     "owner": "whitecircle",
                     "repo": "circle-guard-bench",
-                    "stars": 74
+                    "stars": 74,
+                    "topics": [
+                      "ai",
+                      "benchmark",
+                      "benchmarking",
+                      "guardrail",
+                      "guardrails",
+                      "jailbreak",
+                      "large-language-model",
+                      "large-language-models",
+                      "llm",
+                      "llm-as-a-judge",
+                      "llm-eval",
+                      "llm-evaluation",
+                      "llm-jailbreaks",
+                      "llm-security",
+                      "safeguard"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -745,12 +1276,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Role-Specific Evaluation of LLMs for Security Vulnerability Detection",
+                    "homepage": "https://mattersec-labs.github.io/seclens/",
                     "id": 1187572843,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-01T14:02:45Z",
+                    "open_issues": 1,
                     "owner": "mattersec-labs",
                     "repo": "seclens",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": [
+                      "ai",
+                      "benchmark",
+                      "security-research"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -768,12 +1308,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library for doing homomorphic encryption operations on tensors",
+                    "homepage": null,
                     "id": 236181743,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T21:26:13Z",
+                    "open_issues": 138,
                     "owner": "OpenMined",
                     "repo": "TenSEAL",
-                    "stars": 1033
+                    "stars": 1033,
+                    "topics": [
+                      "cpp",
+                      "cryptography",
+                      "deep-learning",
+                      "docker-image",
+                      "encryption",
+                      "hacktoberfest",
+                      "homomorphic-encryption",
+                      "microsoft-seal",
+                      "python",
+                      "tensor"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -784,12 +1340,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Diffprivlib: The IBM Differential Privacy Library",
+                    "homepage": "https://diffprivlib.readthedocs.io",
                     "id": 192547145,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-17T20:40:13Z",
+                    "open_issues": 12,
                     "owner": "IBM",
                     "repo": "differential-privacy-library",
-                    "stars": 919
+                    "stars": 919,
+                    "topics": [
+                      "data-privacy",
+                      "differential-privacy",
+                      "machine-learning",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -800,12 +1366,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Python Differential Privacy Library. Built on top of: https://github.com/google/differential-privacy",
+                    "homepage": null,
                     "id": 208594579,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-11T08:29:17Z",
+                    "open_issues": 59,
                     "owner": "OpenMined",
                     "repo": "PyDP",
-                    "stars": 550
+                    "stars": 550,
+                    "topics": [
+                      "cpp",
+                      "differential-privacy",
+                      "hacktoberfest",
+                      "python",
+                      "python-wrapper"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -816,12 +1393,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Privacy Preserving Vertical Federated Learning",
+                    "homepage": null,
                     "id": 269736833,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-01T17:06:57Z",
+                    "open_issues": 20,
                     "owner": "OpenMined",
                     "repo": "PyVertical",
-                    "stars": 222
+                    "stars": 222,
+                    "topics": [
+                      "federated-learning",
+                      "partitioned-data",
+                      "private-set-intersection",
+                      "psi",
+                      "split-neural-network",
+                      "splitnn",
+                      "vertical-federated-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -832,12 +1422,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A SMPC companion library for Syft",
+                    "homepage": null,
                     "id": 312573123,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-04T07:51:55Z",
+                    "open_issues": 192,
                     "owner": "OpenMined",
                     "repo": "SyMPC",
-                    "stars": 109
+                    "stars": 109,
+                    "topics": [
+                      "cryptography",
+                      "machine-learning",
+                      "mpc",
+                      "privacy",
+                      "python",
+                      "torch"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 }
@@ -856,15 +1458,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:03:10.474Z",
+    "last_updated": "2026-08-29T04:28:26.797Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
+      "homepage": null,
       "id": 831637664,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-21T07:32:54Z",
+      "open_issues": 2,
       "owner": "ElNiak",
       "repo": "awesome-ai-cybersecurity",
-      "stars": 153
+      "stars": 153,
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "chatgpt",
+        "classification",
+        "cybersecurity",
+        "deep-learning",
+        "deep-neural-networks",
+        "llm",
+        "machine-learning",
+        "malware-detection",
+        "pentesting",
+        "research-paper",
+        "tools"
+      ]
     },
     "original_repository_sha": "d9517d4ce5874cd219446cfa4c68463b61f46fba",
     "enhanced_repository": "enhansome/enhansome-ai-cybersecurity",

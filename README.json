@@ -44,7 +44,7 @@
                     "open_issues": 44,
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1692,
+                    "stars": 1693,
                     "topics": [
                       "api-security",
                       "application-security",
@@ -188,7 +188,7 @@
                     "id": 426255598,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-03T13:49:39Z",
+                    "last_commit": "2026-08-31T09:14:53Z",
                     "open_issues": 21,
                     "owner": "ElNiak",
                     "repo": "PANTHER",
@@ -244,11 +244,11 @@
                     "id": 4930716,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-29T02:15:20Z",
-                    "open_issues": 258,
+                    "last_commit": "2026-09-01T00:47:44Z",
+                    "open_issues": 252,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 7923,
+                    "stars": 7925,
                     "topics": [
                       "bro",
                       "dfir",
@@ -410,7 +410,7 @@
                     "open_issues": 1,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10692,
+                    "stars": 10694,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -494,11 +494,11 @@
                 "id": 1175900220,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T00:22:50Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-01T01:59:10Z",
+                "open_issues": 137,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3430,
+                "stars": 3431,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -530,7 +530,7 @@
                 "open_issues": 2,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "advanced-search",
                   "agent-skill",
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T00:55:10Z",
-                "open_issues": 554,
+                "last_commit": "2026-09-01T01:46:30Z",
+                "open_issues": 570,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24679,
+                "stars": 24710,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -616,10 +616,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:37:37Z",
-                "open_issues": 410,
+                "open_issues": 412,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9079,
+                "stars": 9083,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T00:55:10Z",
-                    "open_issues": 554,
+                    "last_commit": "2026-09-01T01:46:30Z",
+                    "open_issues": 570,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 24679,
+                    "stars": 24710,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -718,10 +718,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-25T22:37:37Z",
-                    "open_issues": 410,
+                    "open_issues": 412,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9079,
+                    "stars": 9083,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -748,7 +748,7 @@
                     "open_issues": 2,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1228,
+                    "stars": 1230,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -830,7 +830,7 @@
                     "open_issues": 2,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 878,
+                    "stars": 883,
                     "topics": [
                       "active-directory",
                       "ai-agents",
@@ -931,7 +931,7 @@
                     "id": 1148383268,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T03:40:04Z",
+                    "last_commit": "2026-08-31T09:29:24Z",
                     "open_issues": 3,
                     "owner": "nullc0d30",
                     "repo": "HunterX",
@@ -1141,7 +1141,7 @@
                     "open_issues": 33,
                     "owner": "protectai",
                     "repo": "rebuff",
-                    "stars": 1520,
+                    "stars": 1521,
                     "topics": [
                       "llm",
                       "llmops",
@@ -1198,7 +1198,7 @@
                     "open_issues": 80,
                     "owner": "protectai",
                     "repo": "modelscan",
-                    "stars": 766,
+                    "stars": 767,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -1285,7 +1285,7 @@
                     "open_issues": 1,
                     "owner": "mattersec-labs",
                     "repo": "seclens",
-                    "stars": 38,
+                    "stars": 40,
                     "topics": [
                       "ai",
                       "benchmark",
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:33:07.553Z",
+    "last_updated": "2026-09-01T02:00:59.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
@@ -1470,7 +1470,7 @@
       "open_issues": 2,
       "owner": "ElNiak",
       "repo": "awesome-ai-cybersecurity",
-      "stars": 153,
+      "stars": 154,
       "topics": [
         "ai",
         "artificial-intelligence",

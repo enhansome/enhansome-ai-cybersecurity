@@ -23,7 +23,7 @@
                     "open_issues": 112,
                     "owner": "13o-bbr-bbq",
                     "repo": "machine_learning_security",
-                    "stars": 2092,
+                    "stars": 2093,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -44,7 +44,7 @@
                     "open_issues": 36,
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1706,
+                    "stars": 1707,
                     "topics": [
                       "api-security",
                       "application-security",
@@ -188,7 +188,7 @@
                     "id": 426255598,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T14:24:51Z",
+                    "last_commit": "2026-09-15T05:52:51Z",
                     "open_issues": 21,
                     "owner": "ElNiak",
                     "repo": "PANTHER",
@@ -244,11 +244,11 @@
                     "id": 4930716,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-15T00:44:45Z",
-                    "open_issues": 255,
+                    "last_commit": "2026-09-16T01:31:38Z",
+                    "open_issues": 257,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 7964,
+                    "stars": 7965,
                     "topics": [
                       "bro",
                       "dfir",
@@ -354,7 +354,7 @@
                     "open_issues": 175,
                     "owner": "TheHive-Project",
                     "repo": "Cortex",
-                    "stars": 1626,
+                    "stars": 1627,
                     "topics": [
                       "analysis",
                       "analyzer",
@@ -410,7 +410,7 @@
                     "open_issues": 1,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10725,
+                    "stars": 10728,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -498,7 +498,7 @@
                 "open_issues": 150,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3479,
+                "stars": 3484,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -530,7 +530,7 @@
                 "open_issues": 3,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "advanced-search",
                   "agent-skill",
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T01:50:28Z",
-                "open_issues": 655,
+                "last_commit": "2026-09-16T01:31:39Z",
+                "open_issues": 647,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 25102,
+                "stars": 25147,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -616,10 +616,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T18:56:03Z",
-                "open_issues": 429,
+                "open_issues": 434,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9237,
+                "stars": 9259,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T01:50:28Z",
-                    "open_issues": 655,
+                    "last_commit": "2026-09-16T01:31:39Z",
+                    "open_issues": 647,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 25102,
+                    "stars": 25147,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -718,10 +718,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-09T18:56:03Z",
-                    "open_issues": 429,
+                    "open_issues": 434,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9237,
+                    "stars": 9259,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -748,7 +748,7 @@
                     "open_issues": 2,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1238,
+                    "stars": 1239,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -774,7 +774,7 @@
                     "open_issues": 19,
                     "owner": "NoDataFound",
                     "repo": "hackGPT",
-                    "stars": 1204,
+                    "stars": 1205,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -795,27 +795,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Counterfit",
-                  "description": "An automation layer for assessing the security of machine learning systems.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "a CLI that provides a generic automation layer for assessing the security of ML models",
-                    "homepage": null,
-                    "id": 362276202,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-07-18T13:29:17Z",
-                    "open_issues": 26,
-                    "owner": "Azure",
-                    "repo": "counterfit",
-                    "stars": 938,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T07:03:10.474Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Darkmoon",
                   "description": "An open source engine for autonomous AI penetration testing that orchestrates 80+ offensive tools through Markdown playbooks and agentic reasoning over MCP, with a command and raw output evidence trail for every finding across web, cloud, Active Directory, Kubernetes and API.",
                   "children": [],
@@ -830,7 +809,7 @@
                     "open_issues": 2,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 936,
+                    "stars": 940,
                     "topics": [
                       "active-directory",
                       "ai-agents",
@@ -853,6 +832,27 @@
                       "security-tools",
                       "self-hosted"
                     ]
+                  },
+                  "first_seen": "2026-08-28T07:03:10.474Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Counterfit",
+                  "description": "An automation layer for assessing the security of machine learning systems.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "a CLI that provides a generic automation layer for assessing the security of ML models",
+                    "homepage": null,
+                    "id": 362276202,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-07-18T13:29:17Z",
+                    "open_issues": 26,
+                    "owner": "Azure",
+                    "repo": "counterfit",
+                    "stars": 939,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
                 },
@@ -914,7 +914,7 @@
                     "open_issues": 2,
                     "owner": "BugTraceAI",
                     "repo": "BugTraceAI",
-                    "stars": 314,
+                    "stars": 307,
                     "topics": [
                       "agents",
                       "ai-agents",
@@ -1022,7 +1022,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2917,
+                "stars": 2919,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1259,7 +1259,7 @@
                     "open_issues": 12,
                     "owner": "mandiant",
                     "repo": "stringsifter",
-                    "stars": 762,
+                    "stars": 763,
                     "topics": [
                       "fireeye-data-science",
                       "fireeye-flare",
@@ -1285,10 +1285,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-03-07T12:39:03Z",
-                    "open_issues": 1,
+                    "open_issues": 3,
                     "owner": "whitecircle",
                     "repo": "circle-guard-bench",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": [
                       "ai",
                       "benchmark",
@@ -1498,7 +1498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:50:52.819Z",
+    "last_updated": "2026-09-16T01:36:09.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",

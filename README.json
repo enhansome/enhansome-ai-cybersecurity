@@ -115,7 +115,7 @@
                     "open_issues": 14,
                     "owner": "endgameinc",
                     "repo": "gym-malware",
-                    "stars": 635,
+                    "stars": 636,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -244,11 +244,11 @@
                     "id": 4930716,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-17T19:01:30Z",
-                    "open_issues": 258,
+                    "last_commit": "2026-09-18T20:28:30Z",
+                    "open_issues": 259,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 7967,
+                    "stars": 7970,
                     "topics": [
                       "bro",
                       "dfir",
@@ -406,11 +406,11 @@
                     "id": 6836299,
                     "language": "Perl",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-15T00:32:15Z",
+                    "last_commit": "2026-09-18T02:41:34Z",
                     "open_issues": 1,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10730,
+                    "stars": 10733,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -498,7 +498,7 @@
                 "open_issues": 154,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3492,
+                "stars": 3494,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -526,11 +526,11 @@
                 "id": 1168120544,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T03:32:42Z",
+                "last_commit": "2026-09-18T23:17:47Z",
                 "open_issues": 3,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 199,
+                "stars": 201,
                 "topics": [
                   "advanced-search",
                   "agent-skill",
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:07:54Z",
-                "open_issues": 628,
+                "last_commit": "2026-09-18T18:09:24Z",
+                "open_issues": 637,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 25240,
+                "stars": 25270,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -616,10 +616,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T21:54:58Z",
-                "open_issues": 440,
+                "open_issues": 448,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9291,
+                "stars": 9299,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T01:07:54Z",
-                    "open_issues": 628,
+                    "last_commit": "2026-09-18T18:09:24Z",
+                    "open_issues": 637,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 25240,
+                    "stars": 25270,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -718,10 +718,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T21:54:58Z",
-                    "open_issues": 440,
+                    "open_issues": 448,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9291,
+                    "stars": 9299,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -748,7 +748,7 @@
                     "open_issues": 2,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1240,
+                    "stars": 1241,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -774,7 +774,7 @@
                     "open_issues": 19,
                     "owner": "NoDataFound",
                     "repo": "hackGPT",
-                    "stars": 1206,
+                    "stars": 1209,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -809,7 +809,7 @@
                     "open_issues": 2,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 946,
+                    "stars": 949,
                     "topics": [
                       "active-directory",
                       "ai-agents",
@@ -1022,7 +1022,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2923,
+                "stars": 2922,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1181,7 +1181,7 @@
                     "open_issues": 33,
                     "owner": "protectai",
                     "repo": "rebuff",
-                    "stars": 1522,
+                    "stars": 1521,
                     "topics": [
                       "llm",
                       "llmops",
@@ -1498,7 +1498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:25:34.692Z",
+    "last_updated": "2026-09-19T01:30:34.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",

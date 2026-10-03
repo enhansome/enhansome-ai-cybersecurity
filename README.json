@@ -495,10 +495,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T01:15:27Z",
-                "open_issues": 178,
+                "open_issues": 179,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3544,
+                "stars": 3545,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T02:07:44Z",
+                "last_commit": "2026-10-03T02:47:54Z",
                 "open_issues": 693,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 25657,
+                "stars": 25658,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T02:07:44Z",
+                    "last_commit": "2026-10-03T02:47:54Z",
                     "open_issues": 693,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 25657,
+                    "stars": 25658,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -1022,7 +1022,7 @@
                 "open_issues": 3,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2927,
+                "stars": 2928,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1498,7 +1498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:16:46.131Z",
+    "last_updated": "2026-10-03T04:30:50.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",

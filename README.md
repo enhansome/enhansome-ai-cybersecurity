@@ -127,7 +127,7 @@ Additionally, AI applications can be divided by technical layers:
 
 ### Tools
 
-* [OneCLI](https://github.com/onecli/onecli) ⭐ 3,544 | 🐛 178 | 🌐 TypeScript | 📅 2026-09-14 - Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently, preventing key exfiltration via prompt injection.
+* [OneCLI](https://github.com/onecli/onecli) ⭐ 3,545 | 🐛 179 | 🌐 TypeScript | 📅 2026-09-14 - Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently, preventing key exfiltration via prompt injection.
 * [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 210 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-01 - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 * [IBM Watson](https://www.ibm.com/security/artificial-intelligence) - Tools and solutions for securing AI applications. Watson uses AI to analyze vast amounts of security data and identify potential threats, providing actionable insights for cybersecurity professionals.
 * [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/) - Comprehensive security management system for cloud environments. AI and machine learning are used to identify threats and vulnerabilities in real-time.
@@ -180,7 +180,7 @@ Machine learning can be applied to secure web applications, databases, ERP syste
 
 **LLMs:**
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,657 | 🐛 693 | 🌐 TypeScript | 📅 2026-10-03 - Open-source LLM red teaming and vulnerability scanner. 100+ attack types, 250k+ users.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,658 | 🐛 693 | 🌐 TypeScript | 📅 2026-10-03 - Open-source LLM red teaming and vulnerability scanner. 100+ attack types, 250k+ users.
 * [garak](https://github.com/NVIDIA/garak) ⭐ 9,411 | 🐛 484 | 🌐 Python | 📅 2026-10-02 - NVIDIA  LLM vulnerability scanner.
 * [CVE-LMTune](https://github.com/terranovafr/CVE-LMTune) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-26 - A unified framework for fine-tuning, evaluation, and live inference of language models for automated vulnerability classification based on MITRE taxonomies ([paper](https://hal.science/hal-05500820))
 
@@ -240,7 +240,7 @@ IDS/IPS systems detect and prevent malicious network activities using machine le
 
 #### Generic Tools
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,657 | 🐛 693 | 🌐 TypeScript | 📅 2026-10-03 - Open-source LLM red teaming with adaptive multi-turn attacks, prompt injection, and jailbreak testing.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,658 | 🐛 693 | 🌐 TypeScript | 📅 2026-10-03 - Open-source LLM red teaming with adaptive multi-turn attacks, prompt injection, and jailbreak testing.
 * [garak](https://github.com/leondz/garak/) ⭐ 9,411 | 🐛 484 | 🌐 Python | 📅 2026-10-02 - A security probing tool for large language models (LLMs).
 * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) ⭐ 1,249 | 🐛 3 | 🌐 Python | 📅 2026-10-01 - An automated penetration tester.
 * [HackGPT](https://github.com/NoDataFound/hackGPT) ⭐ 1,215 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-08-12 - A tool leveraging ChatGPT for hacking purposes.
@@ -255,7 +255,7 @@ IDS/IPS systems detect and prevent malicious network activities using machine le
 
 ### Adversarial Tools
 
-* [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,927 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-24 - A tool to modify the ground truths of large language models (LLMs).
+* [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,928 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-24 - A tool to modify the ground truths of large language models (LLMs).
 * [Exploring the Space of Adversarial Images](https://github.com/tabacof/adversarial) ⭐ 70 | 🐛 1 | 🌐 FORTRAN | 📅 2016-08-02 - A tool to experiment with adversarial images.
 * [Adversarial Machine Learning Library (Ad-lib)](https://github.com/vu-aml/adlib) ⭐ 61 | 🐛 0 | 📅 2018-10-11 - A game-theoretic library for adversarial machine learning.
 

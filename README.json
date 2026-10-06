@@ -23,7 +23,7 @@
                     "open_issues": 112,
                     "owner": "13o-bbr-bbq",
                     "repo": "machine_learning_security",
-                    "stars": 2094,
+                    "stars": 2095,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -248,7 +248,7 @@
                     "open_issues": 258,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 8068,
+                    "stars": 8070,
                     "topics": [
                       "bro",
                       "dfir",
@@ -354,7 +354,7 @@
                     "open_issues": 175,
                     "owner": "TheHive-Project",
                     "repo": "Cortex",
-                    "stars": 1631,
+                    "stars": 1632,
                     "topics": [
                       "analysis",
                       "analyzer",
@@ -494,11 +494,11 @@
                 "id": 1175900220,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T14:07:33Z",
-                "open_issues": 179,
+                "last_commit": "2026-10-06T07:47:53Z",
+                "open_issues": 180,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3558,
+                "stars": 3559,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T03:07:02Z",
-                "open_issues": 713,
+                "last_commit": "2026-10-06T08:46:38Z",
+                "open_issues": 712,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 25733,
+                "stars": 25739,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -616,10 +616,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T17:55:55Z",
-                "open_issues": 486,
+                "open_issues": 487,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9439,
+                "stars": 9450,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T03:07:02Z",
-                    "open_issues": 713,
+                    "last_commit": "2026-10-06T08:46:38Z",
+                    "open_issues": 712,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 25733,
+                    "stars": 25739,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -718,10 +718,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T17:55:55Z",
-                    "open_issues": 486,
+                    "open_issues": 487,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9439,
+                    "stars": 9450,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -748,7 +748,7 @@
                     "open_issues": 3,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1252,
+                    "stars": 1255,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -806,10 +806,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-01T08:22:45Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 996,
+                    "stars": 1002,
                     "topics": [
                       "active-directory",
                       "ai-penetration-testing",
@@ -1110,7 +1110,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-09-17T23:59:11Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "IBM",
                 "repo": "BadDiffusion",
                 "stars": 97,
@@ -1181,7 +1181,7 @@
                     "open_issues": 33,
                     "owner": "protectai",
                     "repo": "rebuff",
-                    "stars": 1526,
+                    "stars": 1527,
                     "topics": [
                       "llm",
                       "llmops",
@@ -1209,7 +1209,7 @@
                     "open_issues": 39,
                     "owner": "whylabs",
                     "repo": "langkit",
-                    "stars": 997,
+                    "stars": 998,
                     "topics": [
                       "large-language-models",
                       "machine-learning",
@@ -1238,7 +1238,7 @@
                     "open_issues": 85,
                     "owner": "protectai",
                     "repo": "modelscan",
-                    "stars": 778,
+                    "stars": 779,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -1389,7 +1389,7 @@
                     "open_issues": 12,
                     "owner": "IBM",
                     "repo": "differential-privacy-library",
-                    "stars": 919,
+                    "stars": 920,
                     "topics": [
                       "data-privacy",
                       "differential-privacy",
@@ -1498,7 +1498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:17:20.776Z",
+    "last_updated": "2026-10-06T10:16:09.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",

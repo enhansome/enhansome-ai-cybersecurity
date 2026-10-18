@@ -44,7 +44,7 @@
                     "open_issues": 39,
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1725,
+                    "stars": 1726,
                     "topics": [
                       "api-security",
                       "application-security",
@@ -248,7 +248,7 @@
                     "open_issues": 263,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 8112,
+                    "stars": 8114,
                     "topics": [
                       "bro",
                       "dfir",
@@ -410,7 +410,7 @@
                     "open_issues": 0,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10775,
+                    "stars": 10776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -498,7 +498,7 @@
                 "open_issues": 177,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3576,
+                "stars": 3578,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -526,7 +526,7 @@
                 "id": 1168120544,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T03:31:33Z",
+                "last_commit": "2026-10-17T11:16:35Z",
                 "open_issues": 2,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T22:57:08Z",
-                "open_issues": 762,
+                "last_commit": "2026-10-18T00:33:33Z",
+                "open_issues": 773,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 26070,
+                "stars": 26091,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -616,10 +616,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T20:15:19Z",
-                "open_issues": 487,
+                "open_issues": 496,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9593,
+                "stars": 9604,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -642,7 +642,7 @@
                 "id": 1153519101,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T14:58:57Z",
+                "last_commit": "2026-10-17T10:55:03Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "CVE-LMTune",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T22:57:08Z",
-                    "open_issues": 762,
+                    "last_commit": "2026-10-18T00:33:33Z",
+                    "open_issues": 773,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 26070,
+                    "stars": 26091,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -718,10 +718,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-16T20:15:19Z",
-                    "open_issues": 487,
+                    "open_issues": 496,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9593,
+                    "stars": 9604,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -748,7 +748,7 @@
                     "open_issues": 3,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1274,
+                    "stars": 1276,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -774,7 +774,7 @@
                     "open_issues": 19,
                     "owner": "NoDataFound",
                     "repo": "hackGPT",
-                    "stars": 1213,
+                    "stars": 1214,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -809,7 +809,7 @@
                     "open_issues": 8,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 1031,
+                    "stars": 1032,
                     "topics": [
                       "active-directory",
                       "ai-penetration-testing",
@@ -851,7 +851,7 @@
                     "open_issues": 25,
                     "owner": "Azure",
                     "repo": "counterfit",
-                    "stars": 945,
+                    "stars": 944,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -1049,7 +1049,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2930,
+                "stars": 2931,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:29:14.968Z",
+    "last_updated": "2026-10-18T01:28:14.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",

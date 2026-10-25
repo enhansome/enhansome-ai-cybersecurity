@@ -41,7 +41,7 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-06T08:30:29Z",
-                    "open_issues": 40,
+                    "open_issues": 41,
                     "owner": "openappsec",
                     "repo": "openappsec",
                     "stars": 1732,
@@ -245,10 +245,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-23T18:05:29Z",
-                    "open_issues": 257,
+                    "open_issues": 258,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 8131,
+                    "stars": 8133,
                     "topics": [
                       "bro",
                       "dfir",
@@ -410,7 +410,7 @@
                     "open_issues": 0,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10796,
+                    "stars": 10800,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -498,7 +498,7 @@
                 "open_issues": 180,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3589,
+                "stars": 3591,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -530,7 +530,7 @@
                 "open_issues": 2,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "agent-skill",
                   "agent-skills",
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T01:35:01Z",
-                "open_issues": 840,
+                "last_commit": "2026-10-25T01:30:49Z",
+                "open_issues": 853,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 26354,
+                "stars": 26389,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -616,10 +616,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T14:24:38Z",
-                "open_issues": 510,
+                "open_issues": 512,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9678,
+                "stars": 9689,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T01:35:01Z",
-                    "open_issues": 840,
+                    "last_commit": "2026-10-25T01:30:49Z",
+                    "open_issues": 853,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 26354,
+                    "stars": 26389,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -718,10 +718,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-23T14:24:38Z",
-                    "open_issues": 510,
+                    "open_issues": 512,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9678,
+                    "stars": 9689,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -744,11 +744,11 @@
                     "id": 673704029,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T02:21:32Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-24T22:54:04Z",
+                    "open_issues": 4,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1283,
+                    "stars": 1285,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -774,7 +774,7 @@
                     "open_issues": 19,
                     "owner": "NoDataFound",
                     "repo": "hackGPT",
-                    "stars": 1215,
+                    "stars": 1214,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -809,7 +809,7 @@
                     "open_issues": 8,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 1137,
+                    "stars": 1140,
                     "topics": [
                       "active-directory",
                       "ai-penetration-testing",
@@ -879,36 +879,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "BugTraceAI",
-                  "description": "Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Open-source, self-hosted web pentesting suite with agentic scanning, analyst tools, API testing, model checkpoints and MCP integrations.",
-                    "homepage": "https://bugtraceai.com",
-                    "id": 1155740228,
-                    "language": "Shell",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-19T10:29:25Z",
-                    "open_issues": 1,
-                    "owner": "BugTraceAI",
-                    "repo": "BugTraceAI",
-                    "stars": 369,
-                    "topics": [
-                      "ai-agents",
-                      "api-security",
-                      "bug-bounty",
-                      "model-context-protocol",
-                      "penetration-testing",
-                      "security-testing",
-                      "self-hosted",
-                      "web-security"
-                    ]
-                  },
-                  "first_seen": "2026-09-09T01:27:56.360Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "DeepFool",
                   "description": "A method to fool deep neural networks.",
                   "children": [],
@@ -923,10 +893,40 @@
                     "open_issues": 5,
                     "owner": "LTS4",
                     "repo": "DeepFool",
-                    "stars": 362,
+                    "stars": 363,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BugTraceAI",
+                  "description": "Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open-source, self-hosted web pentesting suite with agentic scanning, analyst tools, API testing, model checkpoints and MCP integrations.",
+                    "homepage": "https://bugtraceai.com",
+                    "id": 1155740228,
+                    "language": "Shell",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-19T10:29:25Z",
+                    "open_issues": 1,
+                    "owner": "BugTraceAI",
+                    "repo": "BugTraceAI",
+                    "stars": 357,
+                    "topics": [
+                      "ai-agents",
+                      "api-security",
+                      "bug-bounty",
+                      "model-context-protocol",
+                      "penetration-testing",
+                      "security-testing",
+                      "self-hosted",
+                      "web-security"
+                    ]
+                  },
+                  "first_seen": "2026-09-09T01:27:56.360Z"
                 },
                 {
                   "node_type": "item",
@@ -1247,7 +1247,7 @@
                     "open_issues": 32,
                     "owner": "protectai",
                     "repo": "rebuff",
-                    "stars": 1531,
+                    "stars": 1532,
                     "topics": [
                       "llm",
                       "llmops",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:54:50.951Z",
+    "last_updated": "2026-10-25T01:31:43.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",

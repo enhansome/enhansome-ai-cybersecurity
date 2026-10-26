@@ -23,7 +23,7 @@
                     "open_issues": 112,
                     "owner": "13o-bbr-bbq",
                     "repo": "machine_learning_security",
-                    "stars": 2095,
+                    "stars": 2096,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -44,7 +44,7 @@
                     "open_issues": 41,
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1732,
+                    "stars": 1733,
                     "topics": [
                       "api-security",
                       "application-security",
@@ -354,7 +354,7 @@
                     "open_issues": 174,
                     "owner": "TheHive-Project",
                     "repo": "Cortex",
-                    "stars": 1635,
+                    "stars": 1637,
                     "topics": [
                       "analysis",
                       "analyzer",
@@ -410,7 +410,7 @@
                     "open_issues": 0,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10800,
+                    "stars": 10805,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -526,7 +526,7 @@
                 "id": 1168120544,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T00:14:20Z",
+                "last_commit": "2026-10-25T12:32:07Z",
                 "open_issues": 2,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-25T01:30:49Z",
-                "open_issues": 853,
+                "last_commit": "2026-10-26T00:47:33Z",
+                "open_issues": 854,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 26389,
+                "stars": 26422,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -616,10 +616,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T14:24:38Z",
-                "open_issues": 512,
+                "open_issues": 513,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9689,
+                "stars": 9699,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T01:30:49Z",
-                    "open_issues": 853,
+                    "last_commit": "2026-10-26T00:47:33Z",
+                    "open_issues": 854,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 26389,
+                    "stars": 26422,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -718,10 +718,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-23T14:24:38Z",
-                    "open_issues": 512,
+                    "open_issues": 513,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9689,
+                    "stars": 9699,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -748,7 +748,7 @@
                     "open_issues": 4,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1285,
+                    "stars": 1288,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -805,11 +805,11 @@
                     "id": 894433723,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-22T10:00:21Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-25T12:10:24Z",
+                    "open_issues": 2,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 1140,
+                    "stars": 1145,
                     "topics": [
                       "active-directory",
                       "ai-penetration-testing",
@@ -1325,7 +1325,7 @@
                     "open_issues": 12,
                     "owner": "mandiant",
                     "repo": "stringsifter",
-                    "stars": 767,
+                    "stars": 766,
                     "topics": [
                       "fireeye-data-science",
                       "fireeye-flare",
@@ -1354,7 +1354,7 @@
                     "open_issues": 3,
                     "owner": "whitecircle",
                     "repo": "circle-guard-bench",
-                    "stars": 82,
+                    "stars": 81,
                     "topics": [
                       "ai",
                       "benchmark",
@@ -1564,7 +1564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:31:43.776Z",
+    "last_updated": "2026-10-26T01:35:36.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",

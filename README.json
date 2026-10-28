@@ -41,10 +41,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-06T08:30:29Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1736,
+                    "stars": 1737,
                     "topics": [
                       "api-security",
                       "application-security",
@@ -244,11 +244,11 @@
                     "id": 4930716,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-26T20:45:09Z",
-                    "open_issues": 256,
+                    "last_commit": "2026-10-28T00:47:14Z",
+                    "open_issues": 260,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 8140,
+                    "stars": 8144,
                     "topics": [
                       "bro",
                       "dfir",
@@ -410,7 +410,7 @@
                     "open_issues": 0,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10805,
+                    "stars": 10809,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -498,7 +498,7 @@
                 "open_issues": 183,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3598,
+                "stars": 3602,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -526,8 +526,8 @@
                 "id": 1168120544,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T19:21:32Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-28T02:03:04Z",
+                "open_issues": 4,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
                 "stars": 221,
@@ -575,11 +575,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T19:28:53Z",
-                "open_issues": 868,
+                "last_commit": "2026-10-27T22:51:03Z",
+                "open_issues": 873,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 26475,
+                "stars": 26518,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -615,11 +615,11 @@
                 "id": 639097338,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T14:24:38Z",
-                "open_issues": 513,
+                "last_commit": "2026-10-27T18:16:24Z",
+                "open_issues": 516,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9716,
+                "stars": 9729,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -677,11 +677,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T19:28:53Z",
-                    "open_issues": 868,
+                    "last_commit": "2026-10-27T22:51:03Z",
+                    "open_issues": 873,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 26475,
+                    "stars": 26518,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -717,11 +717,11 @@
                     "id": 639097338,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T14:24:38Z",
-                    "open_issues": 513,
+                    "last_commit": "2026-10-27T18:16:24Z",
+                    "open_issues": 516,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9716,
+                    "stars": 9729,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -774,7 +774,7 @@
                     "open_issues": 19,
                     "owner": "NoDataFound",
                     "repo": "hackGPT",
-                    "stars": 1215,
+                    "stars": 1214,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -805,11 +805,11 @@
                     "id": 894433723,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-26T13:36:22Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-27T19:15:01Z",
+                    "open_issues": 4,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 1149,
+                    "stars": 1151,
                     "topics": [
                       "active-directory",
                       "ai-penetration-testing",
@@ -1002,7 +1002,7 @@
                     "open_issues": 5,
                     "owner": "nullc0d30",
                     "repo": "HunterX",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": [
                       "application-security",
                       "bug-bounty",
@@ -1182,6 +1182,35 @@
                 ]
               },
               "first_seen": "2026-08-28T07:03:10.474Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AgentLeak",
+              "description": "Open-source privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 internal communication pathways, 1,000 scenarios, 4,979 validated traces; 68.8% inter-agent leakage vs 27.2% in final outputs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AgentLeak: Open benchmark for privacy leakage in LLM agents — 7 channels, multi-agent, multi-framework.",
+                "homepage": "https://www.agentleak.org",
+                "id": 1122458704,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-05T12:56:25Z",
+                "open_issues": 1,
+                "owner": "Privatris",
+                "repo": "AgentLeak",
+                "stars": 35,
+                "topics": [
+                  "agentic-ai",
+                  "agents",
+                  "benchmark",
+                  "crewai",
+                  "llm",
+                  "multi-agent",
+                  "privacy"
+                ]
+              },
+              "first_seen": "2026-10-28T02:32:55.259Z"
             }
           ],
           "description": null,
@@ -1204,11 +1233,11 @@
                     "id": 1394949155,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T08:07:59Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-27T08:09:48Z",
+                    "open_issues": 5,
                     "owner": "everafterlabs",
                     "repo": "jes",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": [
                       "ai-agents",
                       "ai-security",
@@ -1304,7 +1333,7 @@
                     "open_issues": 105,
                     "owner": "protectai",
                     "repo": "modelscan",
-                    "stars": 788,
+                    "stars": 789,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -1564,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:22:20.130Z",
+    "last_updated": "2026-10-28T02:32:55.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
@@ -1572,8 +1601,8 @@
       "id": 831637664,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-07T09:41:03Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-27T07:38:15Z",
+      "open_issues": 6,
       "owner": "ElNiak",
       "repo": "awesome-ai-cybersecurity",
       "stars": 162,
@@ -1595,7 +1624,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "fb68780d7fb57a3057759d2b9384d7576f3c405d",
+    "original_repository_sha": "55780e08db686d350a8f7d23c79209fcd29e9c1c",
     "enhanced_repository": "enhansome/enhansome-ai-cybersecurity",
     "enhanced_repository_description": null,
     "title": "Awesome AI in Cybersecurity with stars"

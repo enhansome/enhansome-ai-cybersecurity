@@ -44,7 +44,7 @@
                     "open_issues": 42,
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1738,
+                    "stars": 1739,
                     "topics": [
                       "api-security",
                       "application-security",
@@ -244,11 +244,11 @@
                     "id": 4930716,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T00:15:02Z",
-                    "open_issues": 260,
+                    "last_commit": "2026-10-29T19:31:16Z",
+                    "open_issues": 261,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 8147,
+                    "stars": 8149,
                     "topics": [
                       "bro",
                       "dfir",
@@ -410,7 +410,7 @@
                     "open_issues": 0,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10811,
+                    "stars": 10813,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -434,8 +434,8 @@
                     "id": 1203202149,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T20:24:53Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-29T20:25:26Z",
+                    "open_issues": 9,
                     "owner": "ThreatRecall",
                     "repo": "zettelforge",
                     "stars": 66,
@@ -547,7 +547,7 @@
                 "open_issues": 184,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3605,
+                "stars": 3607,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -575,11 +575,11 @@
                 "id": 1168120544,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T05:19:03Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-29T22:02:39Z",
+                "open_issues": 3,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "agent-skill",
                   "agent-skills",
@@ -624,11 +624,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T02:30:11Z",
-                "open_issues": 883,
+                "last_commit": "2026-10-30T00:34:58Z",
+                "open_issues": 905,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 26565,
+                "stars": 26609,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -665,10 +665,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T18:16:24Z",
-                "open_issues": 521,
+                "open_issues": 523,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9758,
+                "stars": 9773,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -726,11 +726,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T02:30:11Z",
-                    "open_issues": 883,
+                    "last_commit": "2026-10-30T00:34:58Z",
+                    "open_issues": 905,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 26565,
+                    "stars": 26609,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -767,10 +767,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-27T18:16:24Z",
-                    "open_issues": 521,
+                    "open_issues": 523,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 9758,
+                    "stars": 9773,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -780,6 +780,48 @@
                     ]
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RedAmon",
+                  "description": "An open source, self-hosted AI penetration testing framework that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests that fix what it finds.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what it finds. MCP both ways: plug in any MCP server as a tool, or drive RedAmon from Claude Code or your own agent.",
+                    "homepage": "https://www.redamon.org",
+                    "id": 1124754056,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-28T19:43:05Z",
+                    "open_issues": 16,
+                    "owner": "samugit83",
+                    "repo": "redamon",
+                    "stars": 3241,
+                    "topics": [
+                      "agentic-ai",
+                      "ai",
+                      "ai-penetration-testing",
+                      "ai-pentesting",
+                      "autonomous-agents",
+                      "bug-bounty",
+                      "cybersecurity",
+                      "ethical-hacking",
+                      "ethical-hacking-tools",
+                      "exploitation",
+                      "kali-linux",
+                      "llm-agents",
+                      "mcp",
+                      "metasploit",
+                      "neo4j",
+                      "osint",
+                      "penetration-testing",
+                      "penetration-testing-tools",
+                      "red-team",
+                      "skills"
+                    ]
+                  },
+                  "first_seen": "2026-10-30T02:52:23.737Z"
                 },
                 {
                   "node_type": "item",
@@ -858,7 +900,7 @@
                     "open_issues": 4,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 1159,
+                    "stars": 1166,
                     "topics": [
                       "active-directory",
                       "ai-penetration-testing",
@@ -1098,7 +1140,7 @@
                 "open_issues": 2,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2930,
+                "stars": 2932,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1325,7 +1367,7 @@
                     "open_issues": 32,
                     "owner": "protectai",
                     "repo": "rebuff",
-                    "stars": 1532,
+                    "stars": 1533,
                     "topics": [
                       "llm",
                       "llmops",
@@ -1382,7 +1424,7 @@
                     "open_issues": 105,
                     "owner": "protectai",
                     "repo": "modelscan",
-                    "stars": 789,
+                    "stars": 792,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -1533,7 +1575,7 @@
                     "open_issues": 13,
                     "owner": "IBM",
                     "repo": "differential-privacy-library",
-                    "stars": 919,
+                    "stars": 920,
                     "topics": [
                       "data-privacy",
                       "differential-privacy",
@@ -1642,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:46:02.504Z",
+    "last_updated": "2026-10-30T02:52:23.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
@@ -1650,8 +1692,8 @@
       "id": 831637664,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-28T07:21:36Z",
-      "open_issues": 6,
+      "last_commit": "2026-10-29T08:59:31Z",
+      "open_issues": 5,
       "owner": "ElNiak",
       "repo": "awesome-ai-cybersecurity",
       "stars": 162,
@@ -1673,7 +1715,7 @@
         "tools"
       ]
     },
-    "original_repository_sha": "6cd1ca2b63c380aff70c7d6e86f5dbdfa6c7c167",
+    "original_repository_sha": "78ecdf4526dfac458e73881618652a2dbb851975",
     "enhanced_repository": "enhansome/enhansome-ai-cybersecurity",
     "enhanced_repository_description": null,
     "title": "Awesome AI in Cybersecurity with stars"

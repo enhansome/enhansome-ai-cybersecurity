@@ -41,7 +41,7 @@ Additionally, AI applications can be divided by technical layers:
 #### Network
 
 * [DeepExploit](https://github.com/13o-bbr-bbq/machine_learning_security) ⭐ 2,095 | 🐛 112 | 🌐 Python | 📅 2026-05-07 - Fully automated penetration testing framework using machine learning. It uses reinforcement learning to improve its attack strategies over time.
-* [open-appsec](https://github.com/openappsec/openappsec) ⭐ 1,747 | 🐛 45 | 🌐 C++ | 📅 2026-09-06 - Open-appsec is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs.
+* [open-appsec](https://github.com/openappsec/openappsec) ⭐ 1,749 | 🐛 45 | 🌐 C++ | 📅 2026-09-06 - Open-appsec is an open source machine-learning security engine that preemptively and automatically prevents threats against Web Application & APIs.
 * [Continuous CyberBattleSim](https://github.com/terranovafr/C-CyberBattleSim) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-04-17 - A simulation tool for training and evaluating scalable and generalizable reinforcement learning agents for critical attack path discovery in networks ([paper](https://ieeexplore.ieee.org/document/11352493))
 
 #### Malware
@@ -65,7 +65,7 @@ Additionally, AI applications can be divided by technical layers:
 
 #### Network
 
-* [Zeek](https://github.com/zeek/zeek) ⭐ 8,229 | 🐛 261 | 🌐 C++ | 📅 2026-11-13 - A powerful network analysis framework focused on security monitoring. AI can be integrated to analyze network traffic patterns and detect anomalies indicative of security threats.
+* [Zeek](https://github.com/zeek/zeek) ⭐ 8,236 | 🐛 263 | 🌐 C++ | 📅 2026-11-14 - A powerful network analysis framework focused on security monitoring. AI can be integrated to analyze network traffic patterns and detect anomalies indicative of security threats.
 * [AIEngine](https://github.com/camp0/aiengine) ⭐ 31 | 🐛 1 | 🌐 C++ | 📅 2017-05-05 - Next-generation interactive/programmable packet inspection engine with IDS functionality. AIEngine uses machine learning to improve packet inspection and anomaly detection, adapting to new threats over time.
 * [Security Anomaly ML](https://github.com/ibondarenko1/security-anomaly-ml) ⭐ 2 | 🐛 4 | 🌐 Python | 📅 2026-08-26 - Open-source ML network-flow detector that converts CICFlowMeter-compatible traffic into deterministic analyst-facing security incidents. Ships with a frozen temporally validated model, CLI, Docker, and reproducible real-model CI.
 
@@ -93,7 +93,7 @@ Additionally, AI applications can be divided by technical layers:
 
 #### Endpoint
 
-* [Nikto](https://github.com/sullo/nikto) ⭐ 10,852 | 🐛 1 | 🌐 Perl | 📅 2026-11-09 - An open-source web server scanner which performs comprehensive tests against web servers for multiple items. AI can help Nikto by automating the identification of complex vulnerabilities and enhancing detection accuracy.
+* [Nikto](https://github.com/sullo/nikto) ⭐ 10,853 | 🐛 0 | 🌐 Perl | 📅 2026-11-13 - An open-source web server scanner which performs comprehensive tests against web servers for multiple items. AI can help Nikto by automating the identification of complex vulnerabilities and enhancing detection accuracy.
 * [Burp Suite](https://portswigger.net/burp) - A leading range of cybersecurity tools, brought to you by PortSwigger. Burp Suite can integrate AI to automate vulnerability detection and improve the efficiency of web application security testing.
 
 #### User
@@ -122,14 +122,14 @@ Additionally, AI applications can be divided by technical layers:
 
 ### Case Studies
 
-* [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) ⭐ 83 | 🐛 0 | 🌐 HTML | 📅 2026-11-12 - Open database of real-world AI agent security incidents (prompt injection, agent supply chain, MCP, agent-framework CVEs, agents used offensively). Every record has a primary source and flags whether there was a confirmed victim and whether AI involvement is confirmed.
+* [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) ⭐ 131 | 🐛 0 | 🌐 HTML | 📅 2026-11-12 - Open database of real-world AI agent security incidents (prompt injection, agent supply chain, MCP, agent-framework CVEs, agents used offensively). Every record has a primary source and flags whether there was a confirmed victim and whether AI involvement is confirmed.
 * [Microsoft AI Security](https://www.microsoft.com/en-us/security/ai) - Case studies on securing AI applications in SaaS environments. These case studies demonstrate how AI can be used to enhance security and protect against evolving threats.
 * [Google AI Security](https://cloud.google.com/security/ai) - Insights and case studies from Google on how to secure AI applications in the cloud.
 
 ### Tools
 
-* [OneCLI](https://github.com/onecli/onecli) ⭐ 3,636 | 🐛 189 | 🌐 TypeScript | 📅 2026-11-09 - Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently, preventing key exfiltration via prompt injection.
-* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 229 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-12 - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
+* [OneCLI](https://github.com/onecli/onecli) ⭐ 3,639 | 🐛 190 | 🌐 TypeScript | 📅 2026-11-09 - Open-source credential vault for AI agents. Rust HTTP gateway intercepts agent requests and injects API credentials transparently, preventing key exfiltration via prompt injection.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 229 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13 - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 * [IBM Watson](https://www.ibm.com/security/artificial-intelligence) - Tools and solutions for securing AI applications. Watson uses AI to analyze vast amounts of security data and identify potential threats, providing actionable insights for cybersecurity professionals.
 * [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/) - Comprehensive security management system for cloud environments. AI and machine learning are used to identify threats and vulnerabilities in real-time.
 
@@ -181,8 +181,8 @@ Machine learning can be applied to secure web applications, databases, ERP syste
 
 **LLMs:**
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 27,114 | 🐛 975 | 🌐 TypeScript | 📅 2026-11-13 - Open-source LLM red teaming and vulnerability scanner. 100+ attack types, 250k+ users.
-* [garak](https://github.com/NVIDIA/garak) ⭐ 10,009 | 🐛 574 | 🌐 Python | 📅 2026-11-06 - NVIDIA  LLM vulnerability scanner.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 27,151 | 🐛 980 | 🌐 TypeScript | 📅 2026-11-14 - Open-source LLM red teaming and vulnerability scanner. 100+ attack types, 250k+ users.
+* [garak](https://github.com/NVIDIA/garak) ⭐ 10,014 | 🐛 580 | 🌐 Python | 📅 2026-11-06 - NVIDIA  LLM vulnerability scanner.
 * [CVE-LMTune](https://github.com/terranovafr/CVE-LMTune) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-10-28 - A unified framework for fine-tuning, evaluation, and live inference of language models for automated vulnerability classification based on MITRE taxonomies ([paper](https://hal.science/hal-05500820))
 
 ### User Behavior Analysis
@@ -241,18 +241,18 @@ IDS/IPS systems detect and prevent malicious network activities using machine le
 
 #### Generic Tools
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 27,114 | 🐛 975 | 🌐 TypeScript | 📅 2026-11-13 - Open-source LLM red teaming with adaptive multi-turn attacks, prompt injection, and jailbreak testing.
-* [garak](https://github.com/leondz/garak/) ⭐ 10,009 | 🐛 574 | 🌐 Python | 📅 2026-11-06 - A security probing tool for large language models (LLMs).
-* [RedAmon](https://github.com/samugit83/redamon) ⭐ 3,387 | 🐛 20 | 🌐 Python | 📅 2026-11-10 - An open source, self-hosted AI penetration testing framework that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests that fix what it finds.
-* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) ⭐ 1,322 | 🐛 4 | 🌐 Python | 📅 2026-10-24 - An automated penetration tester.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,220 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - An open source engine for autonomous AI penetration testing that orchestrates 80+ offensive tools through Markdown playbooks and agentic reasoning over MCP, with a command and raw output evidence trail for every finding across web, cloud, Active Directory, Kubernetes and API.
-* [HackGPT](https://github.com/NoDataFound/hackGPT) ⭐ 1,217 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-08-12 - A tool leveraging ChatGPT for hacking purposes.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 27,151 | 🐛 980 | 🌐 TypeScript | 📅 2026-11-14 - Open-source LLM red teaming with adaptive multi-turn attacks, prompt injection, and jailbreak testing.
+* [garak](https://github.com/leondz/garak/) ⭐ 10,014 | 🐛 580 | 🌐 Python | 📅 2026-11-06 - A security probing tool for large language models (LLMs).
+* [RedAmon](https://github.com/samugit83/redamon) ⭐ 3,392 | 🐛 16 | 🌐 Python | 📅 2026-11-10 - An open source, self-hosted AI penetration testing framework that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests that fix what it finds.
+* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) ⭐ 1,325 | 🐛 4 | 🌐 Python | 📅 2026-10-24 - An automated penetration tester.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,231 | 🐛 6 | 🌐 Python | 📅 2026-10-27 - An open source engine for autonomous AI penetration testing that orchestrates 80+ offensive tools through Markdown playbooks and agentic reasoning over MCP, with a command and raw output evidence trail for every finding across web, cloud, Active Directory, Kubernetes and API.
+* [HackGPT](https://github.com/NoDataFound/hackGPT) ⭐ 1,218 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-08-12 - A tool leveraging ChatGPT for hacking purposes.
 * [Counterfit](https://github.com/Azure/counterfit) ⚠️ Archived - An automation layer for assessing the security of machine learning systems.
 * [Deep-pwning](https://github.com/cchio/deep-pwning) ⭐ 571 | 🐛 5 | 🌐 Python | 📅 2023-03-25 - A lightweight framework for evaluating machine learning model robustness against adversarial attacks.
-* [BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) ⭐ 380 | 🐛 1 | 🌐 Shell | 📅 2026-10-19 - Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.
+* [BugTraceAI](https://github.com/BugTraceAI/BugTraceAI) ⭐ 382 | 🐛 1 | 🌐 Shell | 📅 2026-10-19 - Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.
 * [DeepFool](https://github.com/lts4/deepfool) ⭐ 363 | 🐛 5 | 🌐 Matlab | 📅 2020-03-31 - A method to fool deep neural networks.
 * [Charcuterie](https://github.com/moohax/Charcuterie) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2025-03-03 - Code execution techniques for machine learning libraries.
-* [rust-in-peace](https://github.com/scadastrangelove/rust-in-peace) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2026-10-14 - Agent-assisted vulnerability research for Rust with adversarial triage, dynamic verification, and an experimental Android APK analysis profile.
+* [rust-in-peace](https://github.com/scadastrangelove/rust-in-peace) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-10-14 - Agent-assisted vulnerability research for Rust with adversarial triage, dynamic verification, and an experimental Android APK analysis profile.
 * [HunterX](https://github.com/nullc0d30/HunterX) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-11-10 - An open source AI-assisted vulnerability discovery, validation, and proof engine for security testing and red-team workflows.
 * [Snaike-MLflow](https://github.com/protectai/Snaike-MLflow) - A suite of red team tools for MLflow.
 
@@ -269,7 +269,7 @@ IDS/IPS systems detect and prevent malicious network activities using machine le
 ### Privacy Tools
 
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) ⚠️ Archived - A privacy testing library for deep learning systems.
-* [AgentLeak](https://github.com/Privatris/AgentLeak) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - Open-source privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 internal communication pathways, 1,000 scenarios, 4,979 validated traces; 68.8% inter-agent leakage vs 27.2% in final outputs.
+* [AgentLeak](https://github.com/Privatris/AgentLeak) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - Open-source privacy-leakage benchmark for multi-agent LLM systems (IEEE Access 2026): 7 internal communication pathways, 1,000 scenarios, 4,979 validated traces; 68.8% inter-agent leakage vs 27.2% in final outputs.
 
 ### Defensive Tools and Frameworks
 
@@ -282,9 +282,9 @@ IDS/IPS systems detect and prevent malicious network activities using machine le
 
 * [rebuff](https://github.com/woop/rebuff) ⚠️ Archived - A prompt injection detector.
 * [langkit](https://github.com/whylabs/langkit) ⭐ 1,006 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2024-11-22 - A toolkit for monitoring language models and detecting attacks.
-* [ProtectAI's model scanner](https://github.com/protectai/model-scanner) ⭐ 795 | 🐛 106 | 🌐 Python | 📅 2026-09-28 - A security scanner for detecting suspicious actions in serialized ML models.
+* [ProtectAI's model scanner](https://github.com/protectai/model-scanner) ⭐ 797 | 🐛 106 | 🌐 Python | 📅 2026-09-28 - A security scanner for detecting suspicious actions in serialized ML models.
 * [StringSifter](https://github.com/fireeye/stringsifter) ⭐ 767 | 🐛 12 | 🌐 Python | 📅 2026-07-24 - A tool that ranks strings based on their relevance for malware analysis.
-* [CircleGuardBench](https://github.com/whitecircle-ai/circle-guard-bench) ⭐ 82 | 🐛 4 | 🌐 Python | 📅 2026-03-07 - A full-fledged benchmark for evaluating protection capabilities of AI models.
+* [CircleGuardBench](https://github.com/whitecircle-ai/circle-guard-bench) ⭐ 81 | 🐛 4 | 🌐 Python | 📅 2026-03-07 - A full-fledged benchmark for evaluating protection capabilities of AI models.
 * [SecLens](https://github.com/mattersec-labs/seclens) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2026-08-01 - A benchmark for evaluating LLMs on security vulnerability detection using real CVEs, covering 406 tasks across 5 stakeholder lenses and 35 scoring dimensions. [Paper](https://arxiv.org/abs/2604.01637).
 
 #### Privacy and Confidentiality
@@ -409,4 +409,4 @@ IDS/IPS systems detect and prevent malicious network activities using machine le
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

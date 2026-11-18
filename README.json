@@ -44,7 +44,7 @@
                     "open_issues": 45,
                     "owner": "openappsec",
                     "repo": "openappsec",
-                    "stars": 1751,
+                    "stars": 1752,
                     "topics": [
                       "api-security",
                       "application-security",
@@ -115,7 +115,7 @@
                     "open_issues": 14,
                     "owner": "endgameinc",
                     "repo": "gym-malware",
-                    "stars": 639,
+                    "stars": 638,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -244,11 +244,11 @@
                     "id": 4930716,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-17T00:37:06Z",
-                    "open_issues": 261,
+                    "last_commit": "2026-11-17T21:31:14Z",
+                    "open_issues": 266,
                     "owner": "zeek",
                     "repo": "zeek",
-                    "stars": 8248,
+                    "stars": 8253,
                     "topics": [
                       "bro",
                       "dfir",
@@ -354,7 +354,7 @@
                     "open_issues": 174,
                     "owner": "TheHive-Project",
                     "repo": "Cortex",
-                    "stars": 1649,
+                    "stars": 1650,
                     "topics": [
                       "analysis",
                       "analyzer",
@@ -410,7 +410,7 @@
                     "open_issues": 0,
                     "owner": "sullo",
                     "repo": "nikto",
-                    "stars": 10857,
+                    "stars": 10862,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -498,7 +498,7 @@
                 "open_issues": 0,
                 "owner": "Continuum-AI-Corp",
                 "repo": "Orca-AI-Incident-Archive",
-                "stars": 288,
+                "stars": 304,
                 "topics": [
                   "agentic-ai",
                   "ai-agents",
@@ -547,7 +547,7 @@
                 "open_issues": 192,
                 "owner": "onecli",
                 "repo": "onecli",
-                "stars": 3643,
+                "stars": 3645,
                 "topics": [
                   "ai-agents",
                   "cli",
@@ -575,8 +575,8 @@
                 "id": 1168120544,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T08:50:50Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-18T00:27:09Z",
+                "open_issues": 3,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
                 "stars": 229,
@@ -624,11 +624,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T02:30:50Z",
-                "open_issues": 967,
+                "last_commit": "2026-11-18T00:26:39Z",
+                "open_issues": 977,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 27339,
+                "stars": 27396,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -665,10 +665,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T23:26:29Z",
-                "open_issues": 587,
+                "open_issues": 591,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 10055,
+                "stars": 10071,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -726,11 +726,11 @@
                     "id": 633927609,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T02:30:50Z",
-                    "open_issues": 967,
+                    "last_commit": "2026-11-18T00:26:39Z",
+                    "open_issues": 977,
                     "owner": "promptfoo",
                     "repo": "promptfoo",
-                    "stars": 27339,
+                    "stars": 27396,
                     "topics": [
                       "ci",
                       "ci-cd",
@@ -767,10 +767,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-06T23:26:29Z",
-                    "open_issues": 587,
+                    "open_issues": 591,
                     "owner": "NVIDIA",
                     "repo": "garak",
-                    "stars": 10055,
+                    "stars": 10071,
                     "topics": [
                       "ai",
                       "llm-evaluation",
@@ -797,7 +797,7 @@
                     "open_issues": 18,
                     "owner": "samugit83",
                     "repo": "redamon",
-                    "stars": 3422,
+                    "stars": 3431,
                     "topics": [
                       "agentic-ai",
                       "ai",
@@ -839,7 +839,7 @@
                     "open_issues": 4,
                     "owner": "ipa-lab",
                     "repo": "hackingBuddyGPT",
-                    "stars": 1332,
+                    "stars": 1333,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -865,7 +865,7 @@
                     "open_issues": 7,
                     "owner": "ASCIT31",
                     "repo": "Dark-Moon",
-                    "stars": 1251,
+                    "stars": 1260,
                     "topics": [
                       "active-directory",
                       "ai-penetration-testing",
@@ -942,7 +942,7 @@
                     "open_issues": 25,
                     "owner": "Azure",
                     "repo": "counterfit",
-                    "stars": 942,
+                    "stars": 943,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -984,7 +984,7 @@
                     "open_issues": 1,
                     "owner": "BugTraceAI",
                     "repo": "BugTraceAI",
-                    "stars": 388,
+                    "stars": 389,
                     "topics": [
                       "ai-agents",
                       "api-security",
@@ -1348,7 +1348,7 @@
                     "open_issues": 32,
                     "owner": "protectai",
                     "repo": "rebuff",
-                    "stars": 1533,
+                    "stars": 1534,
                     "topics": [
                       "llm",
                       "llmops",
@@ -1376,7 +1376,7 @@
                     "open_issues": 39,
                     "owner": "whylabs",
                     "repo": "langkit",
-                    "stars": 1007,
+                    "stars": 1008,
                     "topics": [
                       "large-language-models",
                       "machine-learning",
@@ -1405,7 +1405,7 @@
                     "open_issues": 107,
                     "owner": "protectai",
                     "repo": "modelscan",
-                    "stars": 797,
+                    "stars": 798,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:03:10.474Z"
@@ -1447,7 +1447,7 @@
                   "repo_info": {
                     "archived": false,
                     "description": "First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (guardrails and safeguards)",
-                    "homepage": "https://whitecircle.ai",
+                    "homepage": "https://whitecircle.com/research/circleguardbench",
                     "id": 971982531,
                     "language": "Python",
                     "license": "Apache-2.0",
@@ -1665,7 +1665,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:12:46.807Z",
+    "last_updated": "2026-11-18T04:40:46.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
